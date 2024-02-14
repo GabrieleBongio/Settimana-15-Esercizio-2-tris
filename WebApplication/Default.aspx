@@ -6,7 +6,7 @@
     <main>
         <form>
             <div class="my-3">
-                <p class="fw-lighter fs-4 m-0 d-inline">Username:</p>
+                <p class="fw-lighter fs-4 mb-0 d-inline">Username:</p>
                 <asp:TextBox ID="Username" runat="server"></asp:TextBox>
             </div>
             <div class="my-3">
